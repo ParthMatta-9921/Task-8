@@ -6,4 +6,4 @@ compared security and speed
 
 explained the encryption types used in VPNs and privacy features 
 
-discussed Benfits and Limitations of VPNs
+discussed Benefits and Limitations of VPNs
