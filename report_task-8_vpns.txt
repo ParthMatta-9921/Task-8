@@ -1,0 +1,52 @@
+Steps to setup a VPN:
+1. Choose a reputable VPN provider- here i choose ProtonVPN
+2. for ProtonVPN go to- https://protonvpn.com/
+3. Click on Get protonVPN
+4. Choose the VPN deal you want-i chose Proton Free.
+5. Create your account by providing an email address and then a password.
+6. Download the ProtonVPN client for your device.
+7. Follow the steps for the client and install the VPN.
+
+
+
+VPN Encryption:
+VPNs use several different types of encryption to protect your data. 
+Many encryption methods include Advanced Encryption Standard (AES), public-key, 
+symmetric, and transport layer security.
+
+AES encryption: It uses the same key for both encryption and decryption, and supports key lengths of 128, 192, or 256 bits.
+
+Public-key encryption:  Public-key encryption uses a combination of two keys — a public key and a private key. In order to decrypt any data, you must have public and private keys. This type of encryption is often used, especially for secure sockets layer (SSL) security, which encrypts website data. 
+
+SSL security encrypts internet data on websites with an SSL certificate to protect user information. 
+A website with SSL security will display an HTTPS, or Hypertext Transfer Protocol Secure, pre-fix instead of HTTP.
+
+ Symmetric encryption: Symmetric encryption uses the same key to encrypt and decrypt information. 
+Information is encrypted by scrambling the data. 
+The information is unscrambled and decrypted once the recipient inputs the password or key. 
+Public-key encryption is also known as asymmetric encryption. 
+
+ Transport layer security: TLS is an encryption protocol that protects data on the Internet. 
+It is used primarily to protect communication between websites and servers, but it also protects other communication, such as email and messaging. 
+TLS includes three parts: encryption, authentication, and integrity. 
+It encrypts the data, ensures that the correct recipient is getting it, and then ensures that the data hasn’t been tampered with. 
+VPNs use TLS to help protect user data. 
+
+
+
+Privacy features in VPNs are encryption of data so if intercepted, the hacker can't unserstamnd the data.
+IP Address Masking where a new ip address is given to the user, so location is also masked.
+
+
+Benefits of VPNs:
+Privacy: masking ip address and location.
+Security:encrypted tunnel for data to travel through.
+access to home content from abroadLwatch shows and movies from your country even if you are not in yur country.
+
+
+Limitations of VPNs:
+Slower Connection
+Some VPNs are insecure so risks of being hacked are high
+Subscription costs are high for countries where average income is low.
+VPNs are banned in certain countries
+Do not save from voluntary data collection
